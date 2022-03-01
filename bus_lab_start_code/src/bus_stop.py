@@ -19,8 +19,8 @@ class BusStop:
     # def add_person(self, passenger):
     #     self.queue.append(passenger)
 
-    def pick_up_from_stop(self, bus_stop):
-        bus.pick_up(self.queue)
-        self.clear()
+    # def pick_up_from_stop(self, bus_stop):
+    #     bus.pick_up(self.queue)
+    #     self.clear()
         
         
